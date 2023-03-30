@@ -35,8 +35,6 @@
      > 
      > 기술 : Interpolation(Mice, KNN, '0'), LabelEncoding, Robust, Kfold, StratifyKfold, Catboost, SoftVoting
      > 
-     > 프로젝트 참여 인원 5명
-     > 
      > github : 
 ---
 
@@ -58,7 +56,3 @@
      > 
      > github : 
 ---
-
-
-
-
